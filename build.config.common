@@ -1,5 +1,6 @@
 BRANCH=android-4.14
 
+LLVM=1
 CLANG_PREBUILT_BIN=clang/bin
 BUILDTOOLS_PREBUILT_BIN=build/build-tools/path/linux-x86
 
