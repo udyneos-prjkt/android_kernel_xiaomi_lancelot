@@ -1,4 +1,4 @@
 [submodule "KernelSU"]
 	path = KernelSU
 	url = https://github.com/RapliVx/KernelSU
-	branch = susfs-rksu-master
+	branch = master
